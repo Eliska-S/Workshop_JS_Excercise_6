@@ -1,0 +1,31 @@
+h1 {
+    color: #ff4500;
+    margin-bottom: 0px;
+   }
+  
+h2 {
+    color: purple;
+    margin-bottom: 5px;
+    margin-top: 10px;
+   }
+  
+p {
+    margin-top: 10px;
+   }
+  
+ul {
+    margin-top: 10px;
+   }
+  
+ol {
+    list-style-type: upper-roman;
+   }
+  
+.pink {
+    color: #da70d6;
+    text-decoration: underline;
+   }
+  
+.black {
+    text-decoration: underline;
+   }
